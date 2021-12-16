@@ -1,1 +1,1 @@
-# learningsolidity
+# Learning Solidity
